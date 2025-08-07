@@ -158,6 +158,12 @@ const HomePage: React.FC = () => {
         <div className="mt-8 text-center text-sm text-gray-500">
           ✨ Tezkor va avtomatik tarjima sahifasi — matn kiriting va natijani darhol ko‘ring!
         </div>
+
+      </div>
+      <div>
+        <p className="mt-2 text-center text-xs text-gray-400">
+          © 2023 Tarjima ilovasi. Abdujalilova Mashhura Alisher qizi.
+        </p>
       </div>
     </div>
   );
